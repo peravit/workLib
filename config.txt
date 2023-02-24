@@ -1,0 +1,13 @@
+[PATH]
+path = D:\mine\LineChatHist\lineChat\csvFile
+
+[SLA]
+sla = -1
+
+[GGS]
+path_key = line_chat_key.json
+ggs_url = https://docs.google.com/spreadsheets/d/1Uhe3dkn4DMj_9J_sZGFRIfudB8UrorYkKAtofXj2rYE/edit#gid=360731838
+ggs_name = Sheet1
+
+[MODE]
+all_files = 
